@@ -8,7 +8,6 @@
 
 ## Iniciando projeto
 
-- `yarn tsc --init`
 - `yarn tsc`
 - `yarn dev`
 
