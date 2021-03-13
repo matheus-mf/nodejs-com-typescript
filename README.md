@@ -11,3 +11,21 @@
 - `yarn tsc --init`
 - `yarn tsc`
 - `yarn dev`
+
+## Tipos
+
+- any;
+- string;
+- number;
+- boolean;
+- object;
+- array;
+
+## Criação de interfaces
+
+É uma forma de definir a tipagem de um conjunto de dados.
+
+![Criando Tipagem](.github/criando-tipagem.png)
+
+![Usando tipagem](.github/usando-tipagem.png)
+
